@@ -1,3 +1,6 @@
+// Enhancement: Includes spinner, countdown, and randomized question logic for each activity.
+// Ready for expansion with logging, session tracking, or additional activity types.
+
 using System;
 
 class Program
